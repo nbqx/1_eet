@@ -1,0 +1,16 @@
+{
+  "name": "1_eet",
+  "description": "",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/1_eet.git"
+  },
+  "homepage": "https://github.com/nbqx/1_eet",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^0.4.1"
+  }
+}
